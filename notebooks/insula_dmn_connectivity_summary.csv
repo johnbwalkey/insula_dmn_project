@@ -1,0 +1,12 @@
+insula_index,insula_label,target_index,target_label,correlation
+2,Insular Cortex,20,"Supramarginal Gyrus, posterior division",0.8315683549676551
+2,Insular Cortex,30,"Cingulate Gyrus, posterior division",0.7896729420387408
+2,Insular Cortex,19,"Supramarginal Gyrus, anterior division",0.7535217972411241
+2,Insular Cortex,5,"Inferior Frontal Gyrus, pars triangularis",0.7410034251441112
+2,Insular Cortex,29,"Cingulate Gyrus, anterior division",0.6903244303832053
+2,Insular Cortex,31,Precuneous Cortex,0.6468890737046206
+2,Insular Cortex,25,Frontal Medial Cortex,0.645528270578205
+2,Insular Cortex,21,Angular Gyrus,0.6308012585623417
+2,Insular Cortex,18,Superior Parietal Lobule,0.4971196101360892
+2,Insular Cortex,1,Frontal Pole,0.4702763994669232
+2,Insular Cortex,28,Paracingulate Gyrus,0.43719109136784484
